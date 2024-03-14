@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "The Great Adventure",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "reading_time": 2,
+      "posted_date": "2024-03-13",
+      "hashtags": ["adventure", "fiction", "travel"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "Mystery at Midnight",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "reading_time": 1.5,
+      "posted_date": "2024-03-12",
+      "hashtags": ["mystery", "thriller", "suspense"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "Cooking with Joy",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "reading_time": 1,
+      "posted_date": "2024-03-11",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "Science Explorers",
+      "author": "Sarah Brown",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "reading_time": 3,
+      "posted_date": "2024-03-10",
+      "hashtags": ["science", "exploration", "education"]
+    }
+  ]
+  
