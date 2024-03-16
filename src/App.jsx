@@ -28,7 +28,7 @@ function App() {
      
      <Header></Header>
      
-     <div className='md:flex max-w-7xl mx-auto gap-7'>
+     <div className='md:flex max-w-7xl mx-auto gap-7 lg:mt-8'>
      <Blogs handleAddToBookmark={handleAddToBookmark} handleMarkAsRead={handleMarkAsRead}></Blogs>
    
     <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
